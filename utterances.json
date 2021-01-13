@@ -1,6 +1,6 @@
 <script src="https://utteranc.es/client.js"
         repo="gottgam/blog-comments"
-        issue-term="[ENTER TERM HERE]"
+        issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
         async>
